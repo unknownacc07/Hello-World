@@ -1,3 +1,3 @@
 # Hello-World
-<img/src='x'onerror=alert(document.domain)>
-<img src=x onerror=alert(document.domain)>
+<img src=x onmouseover=alert(document.domain)>
+<img src=x onload=alert(document.domain)>
